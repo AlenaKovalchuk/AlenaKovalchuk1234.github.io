@@ -2,17 +2,17 @@ nav:
   - title: "Services"
     section: services
 
-  - title: "Portfolio"
+  - title: "Портфолио"
     section: portfolio
     
-  - title: "About"
+  - title: "Обо мне"
     section: timeline
 
-  - title: "Team"
+  - title: "Команда"
     section: team
 
-  - title: "Contact"
+  - title: "Контакты"
     section: contact
 
-  - title: "Theme Source"
+  - title: "Источник темы"
     url: https://github.com/raviriley/agency-jekyll-theme/
